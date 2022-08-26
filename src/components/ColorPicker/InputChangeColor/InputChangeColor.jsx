@@ -10,15 +10,7 @@ const InputChangeColor = () => {
 			return value;
 		}
 		console.log(term)
-		setValue(term.toLowerCase()
-		
-
-
-
-
-
-		
-
+		setValue(term.toLowerCase())
 	}
 
 	return (
